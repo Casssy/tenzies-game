@@ -1,5 +1,5 @@
 # Tenzies game
-Live demo [here](https://splendid-bombolone-536b2f.netlify.app/)
+Live demo [here](https://sunny-crostata-9336e7.netlify.app/)
 
 ## Technologies used:
 - HTML & CSS
